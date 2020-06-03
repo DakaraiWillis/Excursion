@@ -1,4 +1,8 @@
-header {
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
@@ -8,4 +12,19 @@ header {
 .download {
     color: aquamarine;
     font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+.description {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+.footer {
+    text-align: right;
 }
